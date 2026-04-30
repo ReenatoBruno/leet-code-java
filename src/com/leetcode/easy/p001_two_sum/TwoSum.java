@@ -1,4 +1,4 @@
-package com.leetcode.easy;
+package com.leetcode.easy.p001_two_sum;
 
 import java.util.Arrays;
 import java.util.HashMap;
