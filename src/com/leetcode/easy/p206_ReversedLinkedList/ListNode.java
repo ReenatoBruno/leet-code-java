@@ -1,4 +1,4 @@
-package com.leetcode.easy;
+package com.leetcode.easy.p206_ReversedLinkedList;
 
 public class ListNode {
 
