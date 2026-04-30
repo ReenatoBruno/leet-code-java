@@ -1,4 +1,4 @@
-package com.leetcode.medium;
+package com.leetcode.medium.p002_add_two_numbers;
 
 public class ListNodeUtils {
 
