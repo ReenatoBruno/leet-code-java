@@ -1,4 +1,4 @@
-package com.leetcode.medium.p002_add_two_numbers;
+package com.leetcode.medium.p002_AddTwoNumbers;
 
 public class AddTwoNumbers {
 
